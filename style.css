@@ -43,7 +43,6 @@ body {
 .apresentacao__links {
     display: flex;
     justify-content: space-between;
-
 }
 
 .apresentacao__links__link {
